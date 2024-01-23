@@ -40,3 +40,13 @@ td {
 ul {
     list-style-type: square;
 }
+
+a:link, a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: #F3E7D8;
+}
+
