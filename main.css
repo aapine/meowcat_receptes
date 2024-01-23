@@ -1,4 +1,31 @@
+
+
 h1 {
-    color:#213E60; 
+    color: #ED583F; 
     font-family:'Trocchi', serif;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+table {
+    width: 100%;
+}
+
+td {
+    text-align: center;
+}
+
+#column1 {
+    background-color: #C7B65D;
+}
+
+#column2 {
+    background-color: #F3A732;
+}
+
+#column3 {
+    background-color: #F8B3CC;
 }
