@@ -1,4 +1,6 @@
-
+body {
+    background-color: #F3E7D8;
+}
 
 h1 {
     color: #ED583F; 
@@ -14,8 +16,13 @@ table {
     width: 100%;
 }
 
+table, th, td {
+    border-collapse: collapse;
+}
+
 td {
-    text-align: center;
+    text-align: left;
+    vertical-align: top;
 }
 
 #column1 {
@@ -28,4 +35,8 @@ td {
 
 #column3 {
     background-color: #F8B3CC;
+}
+
+ul {
+    list-style-type: square;
 }
