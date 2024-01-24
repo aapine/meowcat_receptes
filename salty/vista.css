@@ -1,0 +1,31 @@
+body {
+    background-color: #F3E7D8;
+}
+
+h1 {
+    color: #ED583F; 
+    font-family:'Trocchi', serif;
+    text-align: center;
+}
+
+ul {
+    list-style-type: square;
+}
+
+.recipe {
+    display: flex;
+}
+
+#Produkti {
+    width: 35%;
+    background-color: #C7B65D;
+}
+
+#recepte {
+    width: 65%;
+    background-color: #F8B3CC;
+}
+
+ol {
+    font-size: 25px;
+}
